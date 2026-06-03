@@ -1,5 +1,5 @@
 # RACE-YOLO: Recalibrated Attention and Cross-Granularity Enhanced YOLOv11 for Infrared Small Target Detection
-**Authors:** Dongjie Zhou, Chang Liu, Jiajun Zhu, Wenrui Li (Member, IEEE), Yong Wang, Xiaopeng Fan (Senior Member, IEEE)
+**Authors:** Dongjie Zhou, Wenrui Li (Member, IEEE), Chang Liu, Yeyu Chai, Liang-Jian Deng (Senior Member, IEEE), Xiaopeng Fan (Senior Member, IEEE)
 
 ---
 
@@ -15,13 +15,13 @@ This repository provides the official implementation of **RACE-YOLO**, a dynamic
   <img src="assets/RACE-YOLO.jpg" height="250">
 </p>
 
-**Figure**: Overview of RACE-YOLO.
+**Figure 1**: Overview of RACE-YOLO.
 
 <p align="center">
   <img src="assets/RAC3k2_CEdeltaDetect.jpg" height="500">
 </p>
 
-**Figure**: Detail Structures of (a) RAC3k2 Module and (b) CEδDetect Module.
+**Figure 2**: Detail Structures of (a) RAC3k2 Module and (b) CEδDetect Module.
 
 ---
 
