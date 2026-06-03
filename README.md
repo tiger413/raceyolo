@@ -18,10 +18,11 @@ This repository provides the official implementation of **RACE-YOLO**, a dynamic
 **Figure**: Overview of RACE-YOLO.
 
 <p align="center">
-  <img src="assets/RAC3k2_CEdeltaDetect.jpg" height="250">
+  <img src="assets/RAC3k2_CEdeltaDetect.jpg" height="500">
 </p>
 
 **Figure**: Detail Structures of (a) RAC3k2 Modules and (b) CEδDetect Modules.
+
 ---
 
 ## Environment Setup
