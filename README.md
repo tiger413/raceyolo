@@ -23,7 +23,7 @@ This repository provides the official implementation of **RACE-YOLO**, a dynamic
 **Figure 2**: Detail Structures of (a) RAC3k2 Module and (b) CEδDetect Module.
 
 <p align="center">
-  <img src="assets/heatmap.jpg" height="300">
+  <img src="assets/heatmap.jpg" height="400">
 </p>
 
 **Figure 3**: Heatmap visualization comparisons on representative samples from the MDvsFA and ITSDT datasets demonstrate that RACE-YOLO achieves superior localization accuracy and exhibits enhanced sensitivity in target identification compared to YOLOv11.
