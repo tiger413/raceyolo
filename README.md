@@ -21,21 +21,21 @@ This repository provides the official implementation of **RACE-YOLO**, a dynamic
   <img src="assets/RAC3k2_CEdeltaDetect.jpg" height="500">
 </p>
 
-**Figure**: Detail Structures of (a) RAC3k2 Modules and (b) CEδDetect Modules.
+**Figure**: Detail Structures of (a) RAC3k2 Module and (b) CEδDetect Module.
 
 ---
 
 ## Environment Setup
 ```bash
 # 1. Clone the repository
-git clone https://github.com/tiger413/HymNet.git
-cd HymNet
+git clone https://github.com/tiger413/raceyolo.git
+cd raceyolo
 
 # 2. Create a virtual environment
 conda create -n hymnet python=3.9
 
 # 3. Activate the virtual environment
-conda activate hymnet
+conda activate raceyolo
 
 # 4. Install dependencies
 pip install -r requirements.txt
