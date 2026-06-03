@@ -13,12 +13,15 @@ This repository provides the official implementation of **RACE-YOLO**, a dynamic
 
 <p align="center">
   <img src="assets/RACE-YOLO.jpg" height="250">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/HVS_HymNet.png" height="380">
-</p>   
+</p>
 
-**Figure**: Overview of HymNet and its dual-stream functional mapping with the human visual system (HVS).
+**Figure**: Overview of RACE-YOLO.
 
+<p align="center">
+  <img src="assets/RAC3k2_CEdeltaDetect.jpg" height="250">
+</p>
+
+**Figure**: Detail Structures of (a) RAC3k2 Modules and (b) CEδDetect Modules.
 ---
 
 ## Environment Setup
