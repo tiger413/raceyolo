@@ -8,7 +8,7 @@
 ---
 
 ## Overview
-This repository provides the official implementation of **RACE-YOLO**, a dynamically adaptive feature aggregation framework for infrared small target detection (IRSTD). RACE-YOLO integrates adaptive receptive-field recalibration with spatial expansion (via **RAC3k2**), cross-granularity channel shuffle with radiation-aware attention (via **CEδDetect**), and dynamic geometric penalty scaling (via **δ-EIoU** loss) to mitigate sub-pixel target fragmentation, feature dilution in deep networks, and bounding box regression instability.
+This repository provides the official implementation of **RACE-YOLO**, a dynamically and adaptive feature aggregation framework for infrared small target detection (IRSTD). RACE-YOLO integrates adaptive receptive-field recalibration with spatial expansion (via **RAC3k2**), cross-granularity channel shuffle with radiation-aware attention (via **CEδDetect**), and dynamic geometric penalty scaling (via **δ-EIoU** loss) to mitigate sub-pixel target fragmentation, feature dilution in deep networks, and bounding box regression instability.
 
 <p align="center">
   <img src="assets/RACE-YOLO.jpg" height="250">
@@ -30,7 +30,7 @@ This repository provides the official implementation of **RACE-YOLO**, a dynamic
 
 ---
 
-## Environment Setup
+## 🛠️ Environment Setup
 ```bash
 # 1. Clone the repository
 git clone https://github.com/tiger413/raceyolo.git
@@ -82,4 +82,4 @@ We thank the authors for their excellent work.
 
 ## Contact
 
-If you have any questions, please contact dongjiezhou@stu.hit.edu.cn
+For inquiries, please contact Dongjie Zhou at dongjiezhou@stu.hit.edu.cn
