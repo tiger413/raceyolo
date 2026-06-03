@@ -37,7 +37,7 @@ git clone https://github.com/tiger413/raceyolo.git
 cd raceyolo
 
 # 2. Create a virtual environment
-conda create -n hymnet python=3.9
+conda create -n raceyolo python=3.9
 
 # 3. Activate the virtual environment
 conda activate raceyolo
@@ -75,8 +75,6 @@ python src/test.py
 This project builds upon and is inspired by the following open-source projects and resources:
 
 - Ultralytics: https://github.com/ultralytics/ultralytics
-- LEGNet: https://github.com/AeroVILab-AHU/LEGNet
-- FCM: https://github.com/galaxy-oss/FCM
 
 We thank the authors for their excellent work.
 
