@@ -3,8 +3,7 @@
 
 ---
 
-- [2026/02] HymNet training and inference code has been released.
-- [2026/01] A preliminary version of the HymDrone dataset has been released.
+- [2026/05] A preliminary version of RACE-YOLO training and inference code has been released.
 
 ---
 
