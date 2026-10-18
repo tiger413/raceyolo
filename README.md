@@ -67,7 +67,9 @@ Run inference:
 ```bash
 python src/test.py
 ```
-
+---
+## Data Availability
+[Download MDvsFA](https://github.com/wanghuanphd/MDvsFA_cGAN)
 ------
 
 ## Acknowledgements
