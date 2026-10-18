@@ -69,7 +69,9 @@ python src/test.py
 ```
 ---
 ## Data Availability
-[Download MDvsFA](https://github.com/wanghuanphd/MDvsFA_cGAN)
+[Download MDvsFA Dataset](https://github.com/wanghuanphd/MDvsFA_cGAN)
+[Download ITSDT Dataset](https://pan.baidu.com/s/1WdA_yOHDnIiyj4C9SbW_Kg?pwd=nudt)
+[Download NUDT-SIRST Dataset](https://pan.baidu.com/s/1WdA_yOHDnIiyj4C9SbW_Kg?pwd=nudt)
 ------
 
 ## Acknowledgements
